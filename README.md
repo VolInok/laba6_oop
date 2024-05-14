@@ -5,8 +5,10 @@
 
 
 
+
 Сервлет:
 ![lr6-2](https://github.com/VolInok/laba6_oop/assets/124702498/6236f4e1-3686-4732-9507-bc3e1554ca83)
+
 
 
 
